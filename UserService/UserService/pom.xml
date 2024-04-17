@@ -9,7 +9,7 @@
 		<version>2.7.5</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.lcwd.user.service</groupId>
+	<groupId>com.micro.user.service</groupId>
 	<artifactId>UserService</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>UserService</name>
